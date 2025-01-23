@@ -1,0 +1,175 @@
+{
+  "axisRegistry": [
+    {
+      "tag": "SCAN",
+      "displayName": "Scanlines",
+      "min": -100.0,
+      "defaultValue": 0.0,
+      "max": 100.0,
+      "precision": 0,
+      "description": "Break up shapes into horizontal segments without any changes in overall width, letter spacing, or kerning, so there are no line breaks or page layout changes. Negative values make the scanlines thinner, and positive values make them thicker.",
+      "fallbackOnly": false,
+      "fallbacks": [
+        {
+          "name": "Default",
+          "value": 0.0,
+          "displayName": ""
+        }
+      ]
+    },
+    {
+      "tag": "SHRP",
+      "displayName": "Sharpness",
+      "min": 0.0,
+      "defaultValue": 0.0,
+      "max": 100.0,
+      "precision": 0,
+      "description": "Adjust shapes from angular or blunt default shapes (0%) to become increasingly sharped forms (up to 100%).",
+      "fallbackOnly": false,
+      "fallbacks": [
+        {
+          "name": "Default",
+          "value": 0.0,
+          "displayName": ""
+        }
+      ]
+    }
+  ],
+  "familyMetadataList": [
+    {
+      "family": "Ubuntu"
+    },
+    {
+      "family": "Titillium Web"
+    },
+    {
+      "family": "Tiro Devanagari Marathi"
+    },
+    {
+      "family": "Shadows Into Light"
+    },
+    {
+      "family": "Rubik"
+    },
+    {
+      "family": "Roboto"
+    },
+    {
+      "family": "Roboto Slab"
+    },
+    {
+      "family": "Roboto Mono"
+    },
+    {
+      "family": "Roboto Flex"
+    },
+    {
+      "family": "Roboto Condensed"
+    },
+    {
+      "family": "Raleway"
+    },
+    {
+      "family": "Prompt"
+    },
+    {
+      "family": "Poppins"
+    },
+    {
+      "family": "Playfair Display"
+    },
+    {
+      "family": "Permanent Marker"
+    },
+    {
+      "family": "Pacifico"
+    },
+    {
+      "family": "PT Sans"
+    },
+    {
+      "family": "Outfit"
+    },
+    {
+      "family": "Oswald"
+    },
+    {
+      "family": "Open Sans"
+    },
+    {
+      "family": "Nunito"
+    },
+    {
+      "family": "Nunito Sans"
+    },
+    {
+      "family": "Noto Sans"
+    },
+    {
+      "family": "Noto Sans Tagalog"
+    },
+    {
+      "family": "Noto Sans KR"
+    },
+    {
+      "family": "Noto Sans Javanese"
+    },
+    {
+      "family": "Noto Sans Bengali"
+    },
+    {
+      "family": "Noto Nastaliq Urdu"
+    },
+    {
+      "family": "Mulish"
+    },
+    {
+      "family": "Montserrat"
+    },
+    {
+      "family": "Merriweather"
+    },
+    {
+      "family": "Lora"
+    },
+    {
+      "family": "Libre Franklin"
+    },
+    {
+      "family": "Lato"
+    },
+    {
+      "family": "Italianno"
+    },
+    {
+      "family": "Italiana"
+    },
+    {
+      "family": "Inter"
+    },
+    {
+      "family": "Indie Flower"
+    },
+    {
+      "family": "Inconsolata"
+    },
+    {
+      "family": "Fjalla One"
+    },
+    {
+      "family": "EB Garamond"
+    },
+    {
+      "family": "Dosis"
+    },
+    {
+      "family": "Cormorant Garamond"
+    },
+    {
+      "family": "Caveat"
+    },
+    {
+      "family": "Bebas Neue"
+    }
+  ]
+}
